@@ -1,0 +1,8 @@
+Mi az MMC?
+a Windows 2000 és annak jogutódjainak egyik összetevője, amely felületet biztosít a rendszergazdáknak és a haladó felhasználóknak a rendszer konfigurálásához és felügyeletéhez.
+Mit tudunk beállítani a területi beállításokban? Sorolj fel 5 példát.
+Számok, Pénznem, Idő, Dátum, Rendezés
+Mi az eszközkezelő és mire használható?
+Megtudjuk nézni a számítógép specifikációit. Konfigurálni tudunk(pl.:Nyomtató, billentyűzet)
+Mire jó a virtuális memória?
+A virtuális memória egy, az operációs rendszer vagy a számítógép hardvere által nyújtott szolgáltatás (legtöbbször a kettő szoros együttműködése), amit általában egy külső tárolóterület (merevlemez) igénybevételével, a futó program(ok) számára transzparens módon biztosítja, hogy a program végrehajtáskor a központi vagy operatív memória fizikai korlátai észrevétlenek legyenek.
