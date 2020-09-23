@@ -1,0 +1,9 @@
+B CSOPORT
+Mi jelent a <!DOCTYPE html> elem
+    Milyen nyelven kóduljuk a weblapunkat.
+
+2.Hogyan  definiáljuk a stílust a head elemben.
+    style='background-color'
+
+3.Emmet utasítá átírása: p>({Példa: }+span{ez itt egy Példa}+{ az emmetről egy})
+<p>Példa: <span Ez itt egy Példa</span> az Emmet-ről<p>
